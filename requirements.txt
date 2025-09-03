@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pydantic
+python-dotenv
+transformers==4.38.2ss
+torch
+sentence-transformers
+Pillow
+python-multipart
+timm
+accelerate
+pytesseract
+tiktoken==0.6.0
+huggingface_hub[hf_xet]
